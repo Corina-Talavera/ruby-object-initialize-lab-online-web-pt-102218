@@ -12,6 +12,6 @@ class Dog
   end
 end
   
-laika = Dog.new("mutt")
-laika.breed #=> "mutt"
+fido = Dog.new("Pug")
+fido.breed #=> "Pug"
   
