@@ -9,6 +9,6 @@ class Dog
     @breed
   end
   
-laika = Dog.new("mutt")
+laika = Dog.new ("mutt")
 laika.breed #=> "mutt"
   
